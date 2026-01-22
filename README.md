@@ -6,7 +6,10 @@
 
 ## 📊 Dashboard Overview
 
-
+![demo](https://github.com/Tanmay1112004/My_First_Tableau_Dashboard/blob/main/First%20tableau%20project/screenshots/Dashboard%201%20(3).png)
+![demo](https://github.com/Tanmay1112004/My_First_Tableau_Dashboard/blob/main/First%20tableau%20project/screenshots/Dashboard%201%20(5).png)
+![demo](https://github.com/Tanmay1112004/My_First_Tableau_Dashboard/blob/main/First%20tableau%20project/screenshots/Dashboard%201%20(4).png)
+![demo](https://github.com/Tanmay1112004/My_First_Tableau_Dashboard/blob/main/First%20tableau%20project/screenshots/Dashboard%201%20(7).png)
 
 This dashboard provides a multifaceted view of global development indicators, allowing users to cross-reference economic standing with demographic and technological trends.
 
